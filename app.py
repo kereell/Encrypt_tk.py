@@ -174,4 +174,4 @@ def main_screen():
     screen0.mainloop()
 
 
-# main_screen()
+main_screen()
